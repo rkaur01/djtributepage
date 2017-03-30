@@ -1,0 +1,51 @@
+body {
+  background-image: url("https://cdn.shutterstock.com/shutterstock/videos/12882665/thumb/1.jpg");
+}
+
+.container {
+  max-width: 800px;
+  width: 100%;
+  background-color: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  background-size: contain;
+  padding-left: 0;
+  padding-right: 0;
+  border-radius: 20px;
+}
+
+#site-body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.row {
+  margin: 20px 10px;
+}
+
+#footer {
+  max-width: 800px;
+  width: 100%;
+  text-align: center;
+  background-color: #6cf;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding-top:10px;
+  padding-bottom:2px;
+}
+
+.quote {
+  font-size: 25px;
+}
+
+#moreinfo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
